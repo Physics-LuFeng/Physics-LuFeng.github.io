@@ -201,15 +201,15 @@
                 <strong>[USENIX Security'20]</strong>
             </td>
             <td valign="center">
-                <papertitle>Measuring and Modeling the Label Dynamics of Online Anti-Malware Engines</papertitle>
+                <papertitle>------------</papertitle>
                 <br>
-                Shuofei Zhu,
-                Jianjun Shi,
-                <strong><u>Limin Yang</u></strong>,
-                Boqin Qin, Ziyi Zhang, Linhai Song, Gang Wang
+                -----,
+                -----,
+                <strong><u>Feng Lu</u></strong>,
+               ------, -----
                 <br>
-                <a href="data/USENIX20_VirusTotal.pdf">PDF</a> /
-                <a href="https://sfzhu93.github.io/projects/vt/index.html">Data</a>
+                <a href="1.pdf">PDF</a> /
+                <a href="https://1.html">Data</a>
             </td>
           </tr>
           <tr>
@@ -217,78 +217,14 @@
                 <em>[SafeThings'20]</em>
             </td>
             <td valign="center">
-                <papertitle>A Case Study of the Security Vetting Process of Smart-home Assistant Applications</papertitle>
+                <papertitle>-----------------</papertitle>
                 <br>
-                Hang Hu,
-                <strong><u>Limin Yang</u></strong>,
-                Shihan Lin,
-                Gang Wang
+                -----,
+                <strong><u>-------</u></strong>,
+                -----,
+               -----
                 <br>
-                <a href="data/SafeThings20_Alexa.pdf">PDF</a>
-            </td>
-          </tr>
-          <tr>
-            <td valign="center">
-                <strong>[IMC'19]</strong>
-            </td>
-            <td valign="center">
-                <papertitle>Opening the Blackbox of VirusTotal: Analyzing Online Phishing Scan Engines</papertitle>
-                <br>
-                Peng Peng,
-                <strong><u>Limin Yang</u></strong>,
-                Linhai Song,
-                Gang Wang
-                <br>
-                <a href="data/IMC19_VirusTotal.pdf">PDF</a> /
-                <a href="https://github.com/whyisyoung/virustotal">Data</a>
-            </td>
-          </tr>
-          <tr>
-            <td valign="center">
-                <strong>[USENIX Security'18]</strong>
-            </td>
-            <td valign="center">
-                <papertitle>Understanding the Reproducibility of Crowd-reported Security Vulnerabilities</papertitle>
-                <br>
-                Dongliang Mu,
-                Alejandro Cuevas,
-                <strong><u>Limin Yang</u></strong>,
-                Hang Hu,
-                Xinyu Xing,
-                Bing Mao,
-                Gang Wang
-                <br>
-                <a href="data/USENIX18_VulReproduction.pdf">PDF</a> /
-                <a href="https://vulnreproduction.github.io/">Data</a>
-            </td>
-          </tr>
-          <tr>
-            <td valign="center">
-                <em>[GLOBECOM'17]</em>
-            </td>
-            <td valign="center">
-                <papertitle>VulDigger: A Just-in-Time and Cost-Aware Tool for Digging Vulnerability-Contributing Changes</papertitle>
-                <br>
-                <strong><u>Limin Yang</u></strong>,
-                <!-- Xiangxue Li, Yu Yu -->
-                et al.
-                <br>
-                <a href="data/Globecom17_Vuldigger.pdf">PDF</a>
-            </td>
-          </tr>
-          <tr>
-            <td valign="center">
-                <em>[PPNA'17]</em>
-            </td>
-            <td valign="center">
-                <papertitle>Characterizing User Behaviors in Location-based Find-and-Flirt Services: Anonymity and Demographics</papertitle>
-                <br>
-                Minhui Xue,
-                <strong><u>Limin Yang</u></strong>,
-                Keith W. Ross,
-                Haifeng Qian
-                <br>
-                <a href="data/PPNA17_WeChat.pdf">PDF</a>
+                <a href="data/S11a.pdf">PDF</a>
             </td>
           </tr>
         </table>
@@ -320,27 +256,10 @@
           </colgroup>
           <tr>
             <td valign="center">
-              <a href="https://www.ist.psu.edu/"><papertitle>Penn State</papertitle></a>
+              <a href="http://english.iop.cas.cn/"><papertitle>Institute of Physics</papertitle></a>
             </td>
             <td valign="center">
-                <em>Research Intern</em>, Pennsylvania, US, 09/2017 – 02/2018
-            </td>
-          </tr>
-          <tr>
-            <td valign="center">
-                <a href="https://www.xueba100.com/"><papertitle>Xueba Jun</papertitle></a>
-            </td>
-            <td valign="center">
-              <em>Search and Rank Intern</em>, Shanghai, China, 09/2016 – 10/2016
-            </td>
-          </tr>
-          <tr>
-            <td valign="center">
-                <a href="http://english.pku.edu.cn/"><papertitle>Peking University</
-                  papertitle></a>
-            </td>
-            <td valign="center">
-              <em>Exploit Intern</em>, Beijing, China, 07/2015 – 08/2015
+                <em>Chinese Academy of Sciences</em>, Beijing, China, 06/2019
             </td>
           </tr>
         </table>
@@ -361,18 +280,18 @@
           </colgroup>
           <tr>
             <td valign="center">
-              2017
+              06/2020
             </td>
             <td>
-                <papertitle> ECNU Graduate Student Overseas Research Scholarship</papertitle>
+                <papertitle> Outstanding Undergraduate Thesis(The second award, 1%)</papertitle>
             </td>
           </tr>
           <tr>
             <td valign="center">
-              2013-2015
+              12/2019
             </td>
             <td>
-                <papertitle>ECNU Top-notch Innovative Personnel Training Plan</papertitle>
+                <papertitle>National Scholarship(0.2%)</papertitle>
             </td>
           </tr>
         </table>
@@ -393,22 +312,12 @@
           </colgroup>
           <tr>
             <td valign="center">
-                2019 Spring
+                2020 Fall
             </td>
             <td>
-                <papertitle>CS-4264 Principles of Computer Security</papertitle>,
-                Virginia Tech, Teaching Assistant
+                <papertitle>------, Teaching Assistant
             </td>
-          </tr>
-          <tr>
-            <td valign="center">
-              2018 Fall
-            </td>
-            <td>
-                <papertitle>CS-3114 Data Structures and Algorithms</papertitle>,
-                Virginia Tech, Teaching Assistant
-            </td>
-          </tr>
+         </tr>
         </table>
         <!-- Teaching End -->
 
